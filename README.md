@@ -64,6 +64,10 @@ bower install bootstrap --save
 
 bower install moment --save
 
+gem install sass
+
+npm install gulp-sass gulp-sourcemaps --save-dev
+
 
 
 
