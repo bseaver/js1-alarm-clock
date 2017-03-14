@@ -1,0 +1,31 @@
+{
+  "name": "alarm-clock",
+  "description": "js practice",
+  "main": "index.html",
+  "authors": [
+    "Benjamin Seaver & Charles Peden"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "alarm",
+    "clock",
+    "js",
+    "gulp",
+    "node",
+    "bower",
+    "torture"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.17.1"
+  }
+}
